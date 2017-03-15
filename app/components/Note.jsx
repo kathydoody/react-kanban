@@ -1,3 +1,3 @@
 import React from 'react';
 
-export default () => <div> Learning even more stuff!! </div>;
+export default ({ task }) => <div>{task}</div>;
